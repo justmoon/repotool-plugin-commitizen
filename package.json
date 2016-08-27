@@ -1,0 +1,30 @@
+{
+  "name": "repotool-plugin-commitizen",
+  "version": "0.0.0",
+  "description": "Automatically set up commitizen and validate-commit-msg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justmoon/repotool-plugin-commitizen.git"
+  },
+  "keywords": [
+    "commitizen",
+    "repotool",
+    "validate-commit-msg",
+    "commit",
+    "message",
+    "git"
+  ],
+  "author": "Stefan Thomas <justmoon@members.fsf.org>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justmoon/repotool-plugin-commitizen/issues"
+  },
+  "homepage": "https://github.com/justmoon/repotool-plugin-commitizen#readme",
+  "dependencies": {
+    "lodash": "^4.15.0"
+  }
+}
